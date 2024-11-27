@@ -1,0 +1,2 @@
+## Project Description
+#### The problem revolves around developing an AI-based human sentiment recognition model that can effectively decipher and respond to people's emotions based on various cues of facial expressions and gestures. The central challenge is creating a system that accurately identifies different sentiments and does so in real-time, making it practical for applications like human-computer interaction, healthcare, and customer service.
